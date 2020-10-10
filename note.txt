@@ -1,0 +1,2 @@
+Link to Flutter Icons: https://oblador.github.io/react-native-vector-icons/
+Link to fontAwesome:
