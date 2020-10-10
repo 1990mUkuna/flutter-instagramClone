@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:instagramClone/ui/widget/stories_watchall.dart';
  
 
 class HomePage extends StatefulWidget {
@@ -7,6 +8,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+ 
   final Color _primaryColor = Color(0xFF000000);
   @override
   Widget build(BuildContext context) {
@@ -41,8 +43,8 @@ class _HomePageState extends State<HomePage> {
       body: Container(
               child: SingleChildScrollView(
               child: Column(
-                children:  [
-
+                children:  [ 
+                  Stories(),  
                 ]
               ),
         ),
