@@ -1,2 +1,4 @@
 Link to Flutter Icons: https://oblador.github.io/react-native-vector-icons/
 Link to fontAwesome:
+Link-color:colors-web.surge.sh (0xFF    colorcode) == (0xFF8e44ad) #8e44ad
+link for photo: https://picsum.photos/
