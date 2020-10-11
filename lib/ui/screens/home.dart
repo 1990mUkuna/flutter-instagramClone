@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:instagramClone/ui/widget/stories_watchall.dart';
+import 'package:flutter_icons/flutter_icons.dart';
  
 
 class HomePage extends StatefulWidget {
@@ -30,11 +31,11 @@ class _HomePageState extends State<HomePage> {
         actions: [
           IconButton(
           onPressed: (){}, 
-          icon: Icon(Icons.tv_sharp, size: 32.0), 
+          icon: Icon(FontAwesome.television), 
         ),
         IconButton(
-          onPressed: (){}, 
-          icon: const Icon(Icons.send, size: 32.0), 
+          onPressed: (){},  
+          icon: const Icon(FontAwesome.send),
         ),
         ],
  

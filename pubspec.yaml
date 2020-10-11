@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-
+  flutter_icons: ^1.1.0
   google_fonts: ^1.1.0
   cupertino_icons: ^0.1.3
   font_awesome_flutter: ^8.8.1
@@ -85,3 +85,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+ 
